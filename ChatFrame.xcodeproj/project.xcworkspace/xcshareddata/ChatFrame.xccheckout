@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9CE9ABD6-8371-4A8A-B094-C5B41BA0702F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ChatFrame</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D9FAAC148AD779280BAA516F59A2E6FEB7E107A1</key>
+		<string>https://github.com/jiangbodai/ChatFrame.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ChatFrame.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D9FAAC148AD779280BAA516F59A2E6FEB7E107A1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jiangbodai/ChatFrame.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D9FAAC148AD779280BAA516F59A2E6FEB7E107A1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D9FAAC148AD779280BAA516F59A2E6FEB7E107A1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ChatFrame</string>
+		</dict>
+	</array>
+</dict>
+</plist>
